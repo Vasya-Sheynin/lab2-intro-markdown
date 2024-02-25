@@ -7,3 +7,6 @@
 ``` c++
 int val = 5;
 ```
+- [ ] Study hard
+- [ ] Compete
+- [ ] Win
